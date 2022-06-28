@@ -5,7 +5,7 @@ target
 
 ### Maven ###
 mvnw
-mvwnw.cmd
+mvnw.cmd
 
 ### STS ###
 .apt_generated
